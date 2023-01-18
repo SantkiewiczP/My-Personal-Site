@@ -1,0 +1,211 @@
+body {
+  color: #40114E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #B68973;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #B68973;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #EABF9F;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto
+}
+
+.profile {}
+
+.top-container {
+  background-color: #FAF3E0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #B68973;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.footer-link {
+  color: #1E212D;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row3 {
+  margin: 100px auto;
+  width: 50%;
+  text-align: right;
+  line-height: 2;
+}
+
+.hobby {
+  padding-bottom: 50px;
+}
+
+.cook-paragraph {
+  padding-top: 100px;
+}
+
+.nurse-img {
+  width: 22%;
+  float: left;
+  padding-right: 30px;
+}
+
+.code-img {
+  width: 22%;
+  float: right;
+  padding-left: 10px;
+}
+
+.cooking-img {
+  width: 22%;
+  padding-top: 40px;
+  float: right;
+}
+
+.pizza-img {
+  width: 5%;
+  position: absolute;
+  left: 350px;
+  bottom: 700px;
+}
+
+.game-pad-img {
+  width: 5%;
+  position: absolute;
+  left: 200px;
+}
+
+.jigsaw-img {
+  width: 5%;
+  position: absolute;
+  left: 290px;
+  bottom: 350px;
+}
+
+.yoga-img {
+  width: 5%;
+  position: absolute;
+  right: 910px;
+  bottom: 375px;
+  padding-top: 50px;
+}
+
+.books-img {
+  width: 5%;
+  position: absolute;
+  right: 200px;
+  bottom: 350px;
+}
+
+.yarn-img {
+  width: 5%;
+  position: absolute;
+  right: 300px;
+  bottom: 400px;
+}
+
+.camera-img {
+  width: 5%;
+  position: absolute;
+  left: 400px;
+  bottom: 400px;
+}
+
+.embroidery-img {
+  width: 5%;
+  position: absolute;
+  right: 100px;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
+
+.btn {
+  background: #EABF9F;
+  background-image: -webkit-linear-gradient(top, #EABF9F, #B68973);
+  background-image: -moz-linear-gradient(top, #EABF9F, #B68973);
+  background-image: -ms-linear-gradient(top, #EABF9F, #B68973);
+  background-image: -o-linear-gradient(top, #EABF9F, #B68973);
+  background-image: linear-gradient(to bottom, #EABF9F, #B68973);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #EABF9F;
+  background-image: -webkit-linear-gradient(top, #EABF9F, #EABF9F);
+  background-image: -moz-linear-gradient(top, #EABF9F, #EABF9F);
+  background-image: -ms-linear-gradient(top, #EABF9F, #EABF9F);
+  background-image: -o-linear-gradient(top, #EABF9F, #EABF9F);
+  background-image: linear-gradient(to bottom, #EABF9F, #EABF9F);
+  text-decoration: none;
+}
